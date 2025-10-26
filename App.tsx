@@ -14,9 +14,9 @@ type GameState = 'selecting' | 'playing' | 'won';
 type View = 'setup' | 'leaderboard';
 
 const DEFAULT_IMAGES = [
-  'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=400&h=400&auto=format&fit=crop',
-  'https://images.unsplash.com/photo-1573865526739-10659fec78a5?q=80&w=400&h=400&auto=format&fit=crop',
-  'https://images.unsplash.com/photo-1596854407944-bf87f6fdd49e?q=80&w=400&h=400&auto=format&fit=crop',
+  'https://khalifahterritory.com/wp-content/uploads/2025/10/xive_cute_cat_01.jpg?q=80&w=400&h=400&auto=format&fit=crop',
+  'https://khalifahterritory.com/wp-content/uploads/2025/10/xive_cute_cat_02.jpg?q=80&w=400&h=400&auto=format&fit=crop',
+  'https://khalifahterritory.com/wp-content/uploads/2025/10/xive_cute_cat_03.jpg?q=80&w=400&h=400&auto=format&fit=crop',
 ];
 
 const App: React.FC = () => {
