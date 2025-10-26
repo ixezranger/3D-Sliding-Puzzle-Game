@@ -1,0 +1,5 @@
+{
+  "name": "3D Sliding Puzzle",
+  "description": "A fun, clean, and addictive 3D sliding puzzle game where you can use default images or upload your own. Solve the puzzle to reveal the complete picture!",
+  "requestFramePermissions": []
+}
